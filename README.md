@@ -5,4 +5,4 @@ This project is not anything extraordinary and I didn't even have the idea for t
 
 _My HS exam got posponded because of corona virus so I made this website staying at my home_
 
-** *Date* **
+**_Date: 21-03-2020_**
